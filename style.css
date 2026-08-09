@@ -12,7 +12,7 @@ html {
 body {
     font-family: "Inter", sans-serif;
     color: #101d38;
-    background: #ffffff;
+    background: #efefef;
     overflow-x: hidden;
 }
 
@@ -436,7 +436,7 @@ input {
 /* about */
 
 .about {
-   background: white;
+   background: #efefef;
 }
 
 .about-container {
@@ -550,7 +550,7 @@ input {
 
 
 .why {
-    background: #fff;
+    background: #efefef;
 }
 
 .benefits-grid {
@@ -570,13 +570,13 @@ input {
     background: white;
     transition: .25s;
     box-shadow:  0 4px 18px
-        rgba(20,50,100,.025);
+        rgba(20,50,100,.05);
 }
 
 .benefit-card:hover {
      transform: translateY(-5px);
     box-shadow: 0 15px 35px
-        rgba(20,50,100,.08);
+        rgba(20, 50, 100, 0.2);
     border-color: #d2dbee;
        
 }
