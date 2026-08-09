@@ -24,8 +24,8 @@ This project is a web application developed as part of my project assignment.
 
 ## Live Demo
 
-[View Live Project](YOUR_DEPLOYMENT_LINK)
+[View Live Project]( https://wanderingtwilight.github.io/KITS-SIH/)
 
 ## GitHub Repository
 
-[View Source Code](YOUR_GITHUB_REPOSITORY_LINK)
+[View Source Code](https://github.com/wanderingtwilight/KITS-SIH)
