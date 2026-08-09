@@ -15,6 +15,15 @@ This project is a web application developed as part of my project assignment.
 - CSS
 - JavaScript
 
+## Dependencies
+
+- email.js
+
+## Technologies used
+
+- Google Stitch
+- Pencil
+
 ## Features
 
 - Responsive design
